@@ -13,3 +13,4 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'devise', '~> 3.4.1'
 gem 'pg'
+gem 'rails_12factor'
